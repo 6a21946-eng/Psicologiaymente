@@ -13,13 +13,8 @@ urls = [
     "https://psicologiaymente.com/categoria/psicofarmacologia",
     "https://psicologiaymente.com/categoria/consumidor",
     "https://psicologiaymente.com/categoria/inteligencia",
-    "https://psicologiaymente.com/tags/historia-de-la-psicologia",
-    "https://psicologiaymente.com/tags/narcisismo",
-    "https://psicologiaymente.com/tags/teoria",
-    "https://psicologiaymente.com/tags/depresion",
     "https://psicologiaymente.com/marketing",
-    "https://psicologiaymente.com/tags/terapia",
-    "https://psicologiaymente.com/tags/emocion"
+    "https://www.psicologia-online.com/pir/", 
 ]
 
 titulares = []
